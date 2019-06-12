@@ -26,6 +26,7 @@ Configuration Example
 
 ::
 
+      - type: FilterFocus
         focuser: /Focuser/0
         filterwheel: /FilterWheel/0
         focus_filters: "U B V R I"  # Filter names in order of focus_difference
